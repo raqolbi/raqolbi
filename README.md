@@ -82,11 +82,11 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raqolbi&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raqolbi&layout=compact&hide_border=true&theme=transparent" height="150" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&hide_border=true&theme=transparent" height="150" />
+  <img src="https://streak-stats.demolab.com?user=raqolbi&hide_border=true&theme=transparent" height="150" />
 </p>
 
 ---

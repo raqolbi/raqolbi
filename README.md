@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=raqolbi&style=flat&label=Profile%20views" />
   </a>
   &nbsp;
-  <a href="https://cenybug.my.id/">
+  <a href="https://nurqolbi.my.id/">
     <img src="https://img.shields.io/badge/Portfolio-cenybug.my.id-0ea5e9?logo=safari&logoColor=white" />
   </a>
 </p>

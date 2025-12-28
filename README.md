@@ -7,7 +7,7 @@
   </a>
   &nbsp;
   <a href="https://nurqolbi.my.id/">
-    <img src="https://img.shields.io/badge/Portfolio-cenybug.my.id-0ea5e9?logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-nurqolbi.my.id-0ea5e9?logo=safari&logoColor=white" />
   </a>
 </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ramadian Nurqolbi 👋</h1>
-<p align="center"><b>Fullstack Developer · Mobile Developer · Offline-First Engineer</b></p>
+<p align="center"><b>Senior Software Engineer · Web · Mobile · System Architecture</b></p>
 
 <p align="center">
   <a href="https://github.com/raqolbi">
@@ -13,69 +13,61 @@
 
 ---
 
-### 🌟 Professional Summary
-Fullstack Developer with 7+ years of experience in building mobile and web applications, along with 3+ years of background in IT Support and server administration. Skilled in developing **SFA systems**, **offline-first applications**, and **cross-platform mobile apps**. Experienced in end-to-end development—from UI/UX implementation, backend API design, database optimization, to deployment and infrastructure.
+## 👨‍💻 About Me
 
-Passionate about performance, clean architecture, automation, and building reliable systems.
+Senior Software Engineer based in **Mojoagung, Jombang, East Java, Indonesia** with **10+ years of experience** in developing web and mobile applications.
 
----
+My work focuses on building reliable systems used in real production environments, covering the full development lifecycle—from frontend implementation and backend architecture to infrastructure and deployment.
 
-### 🧰 Core Technical Skills
-
-**Frontend**
-- Angular, Ionic, React, Vue, PWA
-
-**Mobile**
-- Ionic Framework, Capacitor, React Native
-
-**Backend**
-- PHP (Laravel, Lumen), Node.js (Express), REST API
-
-**Databases**
-- MySQL, PostgreSQL, PouchDB (Offline-first)
-
-**Infrastructure**
-- Docker, Proxmox, pfSense, Mikrotik, Nginx/Apache, Debian Server
-
-**Tools**
-- Git, VS Code, Postman, Figma
+I prioritize **system stability, maintainable code structure, and long-term scalability** when designing and developing software systems.
 
 ---
 
-### 🚀 What I Build
-- **SFA Modules:** Start/End day, Check-in, Merchandising, Ordering, Postponed Orders  
-- **Offline-first Apps:** Sync engine (PouchDB/SQLite), background queue, conflict resolution  
-- **DevOps & Infra:** Docker Compose stacks, SSL/Cloudflare, Supervisor workers, rsync/cron backups  
-- **Mobile Delivery:** AAB/APK multi-flavor builds, Capacitor plugins, automated pipelines  
+## 🧰 Technical Expertise
+
+### Web Development
+- HTML, CSS, JavaScript, TypeScript
+- React, Angular, Next.js
+- Tailwind CSS
+
+### Mobile Development
+- Ionic Framework
+- Progressive Web App (PWA)
+- Android & iOS delivery
+
+### Backend & Architecture
+- REST API development
+- System integration
+- Application architecture design
+
+### Databases
+- PostgreSQL
+- MySQL / MariaDB
+
+### DevOps & Infrastructure
+- Docker
+- Nginx
+- Cloudflare
+- Linux server environments
 
 ---
 
-### 🗂️ Featured Projects
+## 🚀 Areas of Work
 
-#### 🧭 SFA Offline-First System
-Ionic + Angular + PouchDB + Laravel  
-- Two-way sync engine  
-- Offline queue processing  
-- Conflict resolver  
-- Background workers & monitoring  
+I typically work on systems involving:
 
-#### 📍 GPS Attendance App
-Ionic + Capacitor  
-- Camera + geolocation capture  
-- GPS validation  
-- Map visualisation (Leaflet)  
-- Offline upload queue  
+- **Web Application Development**
+- **Mobile Application Development**
+- **Backend API & System Integration**
+- **Application Architecture Design**
+- **Infrastructure & Deployment Management**
 
-#### 🧱 Infrastructure as Code (Homelab)
-Proxmox + pfSense + Docker  
-- Multi-node Proxmox setup  
-- Gateway firewall & routing  
-- Dockerized app stacks  
-- Automated SSL + backups  
+The systems I build are intended for **long-term production use**, emphasizing reliability, performance, and maintainability.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raqolbi&show_icons=true&rank_icon=github&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raqolbi&layout=compact&hide_border=true" height="150" />
@@ -83,12 +75,13 @@ Proxmox + pfSense + Docker
 
 ---
 
-### 📬 Contact
+## 📬 Contact
+
 - 🌐 Portfolio: https://nurqolbi.my.id  
-- 💼 LinkedIn: https://www.linkedin.com/in/ramadian-nurqolbi-765bb9388  
+- 💼 LinkedIn: https://www.linkedin.com/in/ramadian-nurqolbi  
 - 🧑‍💻 GitHub: https://github.com/raqolbi  
-- 📧 Email: raqolbi@hotmail.com  
+- 📧 Email: ramadian@nurqolbi.my.id  
 
 ---
 
-<p align="center"><i>“Build reliable systems. Keep them simple. Ship consistently.”</i></p>
+<p align="center"><i>Build reliable systems. Keep them maintainable. Ship with purpose.</i></p>

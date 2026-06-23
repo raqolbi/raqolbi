@@ -80,7 +80,7 @@ The systems I build are intended for **long-term production use**, emphasizing r
 - 🌐 Portfolio: https://nurqolbi.my.id  
 - 💼 LinkedIn: https://www.linkedin.com/in/ramadian-nurqolbi  
 - 🧑‍💻 GitHub: https://github.com/raqolbi  
-- 📧 Email: ramadian@nurqolbi.my.id  
+- 📧 Email: raqolbi@hotmail.com  
 
 ---
 

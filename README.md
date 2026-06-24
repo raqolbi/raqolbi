@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ramadian Nurqolbi 👋</h1>
+<h1 align="center">Hi, I'm Rama 👋</h1>
 <p align="center"><b>Senior Software Engineer · Web · Mobile · System Architecture</b></p>
 
 <p align="center">

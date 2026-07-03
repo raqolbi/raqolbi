@@ -1,68 +1,46 @@
 <h1 align="center">Hi, I'm Rama 👋</h1>
-<p align="center"><b>Senior Software Engineer · Web · Mobile · System Architecture</b></p>
 
 <p align="center">
-  <a href="https://github.com/raqolbi">
-    <img src="https://komarev.com/ghpvc/?username=raqolbi&style=flat&label=Profile%20views" />
-  </a>
-  &nbsp;
-  <a href="https://nurqolbi.my.id/">
-    <img src="https://img.shields.io/badge/Portfolio-nurqolbi.my.id-0ea5e9?logo=safari&logoColor=white" />
-  </a>
+Building useful software through personal projects, experiments, and continuous learning.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About
 
-Senior Software Engineer based in **Mojoagung, Jombang, East Java, Indonesia** with **10+ years of experience** in developing web and mobile applications.
+I'm a software engineer from Indonesia who enjoys building software that solves everyday problems.
 
-My work focuses on building reliable systems used in real production environments, covering the full development lifecycle—from frontend implementation and backend architecture to infrastructure and deployment.
+This GitHub is my personal workspace—a place to experiment with new ideas, learn technologies, and develop projects that I find useful. Some projects are simple prototypes, while others evolve into complete applications.
 
-I prioritize **system stability, maintainable code structure, and long-term scalability** when designing and developing software systems.
-
----
-
-## 🧰 Technical Expertise
-
-### Web Development
-- HTML, CSS, JavaScript, TypeScript
-- React, Angular, Next.js
-- Tailwind CSS
-
-### Mobile Development
-- Ionic Framework
-- Progressive Web App (PWA)
-- Android & iOS delivery
-
-### Backend & Architecture
-- REST API development
-- System integration
-- Application architecture design
-
-### Databases
-- PostgreSQL
-- MySQL / MariaDB
-
-### DevOps & Infrastructure
-- Docker
-- Nginx
-- Cloudflare
-- Linux server environments
+I believe good software should be reliable, maintainable, and practical.
 
 ---
 
-## 🚀 Areas of Work
+## 🚀 What You'll Find Here
 
-I typically work on systems involving:
+* 💡 Personal projects
+* 🧪 Technology experiments
+* 🌐 Web applications
+* 📱 Mobile applications
+* 🔌 Backend APIs
+* ⚙️ System architecture
+* 📦 Open-source projects
 
-- **Web Application Development**
-- **Mobile Application Development**
-- **Backend API & System Integration**
-- **Application Architecture Design**
-- **Infrastructure & Deployment Management**
+---
 
-The systems I build are intended for **long-term production use**, emphasizing reliability, performance, and maintainability.
+## 🛠️ Technologies
+
+* TypeScript
+* JavaScript
+* Angular
+* React
+* Next.js
+* Ionic Framework
+* PostgreSQL
+* MySQL / MariaDB
+* Docker
+* Nginx
+* Linux
 
 ---
 
@@ -75,13 +53,14 @@ The systems I build are intended for **long-term production use**, emphasizing r
 
 ---
 
-## 📬 Contact
+## 📬 Connect
 
-- 🌐 Portfolio: https://nurqolbi.my.id  
-- 💼 LinkedIn: https://www.linkedin.com/in/ramadian-nurqolbi  
-- 🧑‍💻 GitHub: https://github.com/raqolbi  
-- 📧 Email: raqolbi@hotmail.com  
+* 🌐 Portfolio: https://nurqolbi.my.id
+* 💼 LinkedIn: https://www.linkedin.com/in/ramadian-nurqolbi
+* 📧 Email: [raqolbi@hotmail.com](mailto:raqolbi@hotmail.com)
 
 ---
 
-<p align="center"><i>Build reliable systems. Keep them maintainable. Ship with purpose.</i></p>
+<p align="center">
+<i>Learning. Building. Sharing.</i>
+</p>
